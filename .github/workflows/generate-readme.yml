@@ -1,0 +1,34 @@
+name: Generate README
+
+on:
+  schedule:
+    - cron: "0 0 1 * *"
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '7.4'
+
+      - name: Run PHP script
+        run: php src/generate-readme.php
+        env:
+          AUTHOR_BIRTHDAY: ${{ secrets.AUTHOR_BIRTHDAY }}
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add README.md
+          git commit -m "Generate README"
+          git push
