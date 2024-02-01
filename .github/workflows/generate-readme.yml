@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Set up PHP
         uses: shivammathur/setup-php@v2
@@ -25,10 +25,14 @@ jobs:
         env:
           AUTHOR_BIRTHDAY: ${{ secrets.AUTHOR_BIRTHDAY }}
 
-      - name: Commit and push changes
+      - name: Check for changes
         run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
-          git add README.md
-          git commit -m "Generate README"
-          git push
+          if [ -n "$(git status --porcelain)" ]; then
+            git config --local user.email "actions@github.com"
+            git config --local user.name "GitHub Actions"
+            git add README.md
+            git commit -m "Generate README"
+            git push
+          else
+            echo "No changes to commit."
+          fi
