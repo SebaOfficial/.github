@@ -36,7 +36,11 @@ I'm Sebastiano but you can call me **Seba**
 [![Front-end Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,svelte&perline=3)](https://racca.me/contacts)
 
 ### Other known languages & Technologies
-[![Other Languages & Technologies](https://skillicons.dev/icons?i=c,python,java,markdown,nginx,bash,docker,git,github&perline=3)](https://racca.me/contacts)
+[![Other Languages & Technologies](https://skillicons.dev/icons?i=linux,c,python,java,markdown,nginx,bash,docker,git,github,cloudflare,arduino&perline=4)](https://racca.me/contacts)
+
+### Text Editors
+[![Text Editors](https://skillicons.dev/icons?i=vscode,vim,neovim&perline=3)](https://racca.me/contacts)
+
 
 
 ## 📊 GitHub Stats:
