@@ -1,4 +1,4 @@
-## 👋 Hello, I'm [Seba](https://racca.me/)
+# 👋 Hello, I'm [Seba](https://racca.me/)
 I'm Sebastiano but you can call me **Seba**
 
 ## 🎉 Get to Know Me
@@ -27,21 +27,19 @@ I'm Sebastiano but you can call me **Seba**
 
 <hr/>
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white)
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+## 💻 Tech Stack:
 
-# 📊 GitHub Stats:
+### Back-end Development
+[![Back-end Skills](https://skillicons.dev/icons?i=php,nodejs,mysql,mongodb&perline=2)](https://racca.me/contacts)
+
+### Front-end Development
+[![Front-end Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,svelte&perline=3)](https://racca.me/contacts)
+
+### Other known languages & Technologies
+[![Other Languages & Technologies](https://skillicons.dev/icons?i=c,python,java,markdown,nginx,bash,docker,git,github&perline=3)](https://racca.me/contacts)
+
+
+## 📊 GitHub Stats:
 [![](https://github-readme-stats.vercel.app/api?username=SebaOfficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false)](https://racca.me)<br/>
 [![](https://github-readme-streak-stats.herokuapp.com/?user=SebaOfficial)](https://racca.me)<br/>
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=SebaOfficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://racca.me)
