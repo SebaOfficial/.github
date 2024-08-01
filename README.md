@@ -5,7 +5,7 @@ I'm Sebastiano but you can call me **Seba**
 <img align="right" src="assets/mokey.gif" width="349"/>
 
 
-* 🇮🇹 18 years old full-time Italian developer;
+* 🇮🇹 19 years old full-time Italian developer;
 * ⚜️ Scout Enthusiast;
 * ⚖️ Advocate for Equal Rights.
 
