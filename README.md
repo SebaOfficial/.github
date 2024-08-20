@@ -30,7 +30,7 @@ I'm Sebastiano but you can call me **Seba**
 ## 💻 Tech Stack:
 
 ### Back-end Development
-[![Back-end Skills](https://skillicons.dev/icons?i=php,nodejs,mysql,mongodb,sqlite&perline=2)](https://racca.me/contacts)
+[![Back-end Skills](https://skillicons.dev/icons?i=php,nodejs,mysql,mongodb,sqlite&perline=3)](https://racca.me/contacts)
 
 ### Front-end Development
 [![Front-end Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,svelte&perline=3)](https://racca.me/contacts)
